@@ -9,7 +9,7 @@ Plantilla de entrega. Llenen cada sección con la información de su módulo.
 - El repositorio es público: no escriban teléfonos, correos ni CURP. Usen el cargo o rol.
 -->
 
-**Equipo:**
+**Equipo:** Prueba del robot
 **Módulo del Hub:**
 **Organización:**
 
